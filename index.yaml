@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  base:
+  - apiVersion: v1
+    appVersion: 1.18.1
+    created: "2023-07-15T21:44:54.298191+05:30"
+    description: Helm chart for deploying Istio cluster resources and CRDs
+    digest: 61a87fdcdd810bc9d3ae3dde90246d994c88794aa8ef20146d809d559f9e6444
+    icon: https://istio.io/latest/favicons/android-192x192.png
+    keywords:
+    - istio
+    name: base
+    sources:
+    - https://github.com/istio/istio
+    urls:
+    - https://github.com/bakuppus/istio-helm-charts-1-18-1/base-1.18.1.tgz
+    version: 1.18.1
+generated: "2023-07-15T21:44:54.294527+05:30"
